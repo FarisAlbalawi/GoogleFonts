@@ -3,11 +3,12 @@
 
 
 ## Features 
-- Download Google Fonts
+- Download
 - Search
-- Delete and Save locally using core Data
-- upload fonts
--  swift 5
+- Delete and Save 
+- Save locally using core Data
+- Upload fonts
+- Swift 5
 
 ## Requirements
 - Google API Key
