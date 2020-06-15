@@ -22,4 +22,4 @@
 ## Author
 
 Faris Albalawi,
-developer.faris@gmail.com
+FA.FarisAlbalawi@gmail.com
